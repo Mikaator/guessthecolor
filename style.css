@@ -63,9 +63,8 @@ body, html {
   filter: brightness(1) saturate(1);
 }
 .color-btn:hover:not(:disabled) {
-  /* Kein Hover-Effekt mehr, damit die Farbe nicht verfälscht wird */
-  transform: none;
-  box-shadow: 0 4px 24px 0 #0005;
+  transform: scale(1.18) translateY(-10px) rotate(-2deg);
+  box-shadow: 0 12px 40px 0 #0007;
   filter: none;
 }
 .color-btn:active:not(:disabled) {
