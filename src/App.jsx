@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import './App.css'
+import { config as importedConfig } from './config.js'
 
 function App() {
-  const [config, setConfig] = useState(null)
+  const [config] = useState(importedConfig)
   const [current, setCurrent] = useState(0)
   const [selected, setSelected] = useState(null)
   const [solved, setSolved] = useState(false)
@@ -11,25 +12,8 @@ function App() {
   const [correctCount, setCorrectCount] = useState(0)
   const [mode, setMode] = useState(null) // 'twitch' oder '7tv'
 
-  // config.json laden
-  useEffect(() => {
-    fetch('config.json')
-      .then(res => res.json())
-      .then(setConfig)
-      .catch(() => setConfig([]))
-  }, [])
-
-  useEffect(() => {
-    if (config && started && current >= config.length) {
-      setFinished(true)
-    }
-  }, [current, config, started])
-
-  if (!config) {
-    return <div className="loading">Lade Konfiguration...</div>
-  }
-  if (config.length === 0) {
-    return <div className="loading">Keine Konfiguration gefunden. Lege eine <b>config.json</b> im public-Ordner ab.</div>
+  if (!config || config.length === 0) {
+    return <div className="loading">Keine Konfiguration gefunden. Ersetze <b>src/config.js</b> durch deine Daten.</div>
   }
 
   // Startscreen mit Modus-Auswahl
