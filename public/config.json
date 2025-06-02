@@ -3,64 +3,80 @@
     "username": "Mikaator",
     "real_color": "#C6FFE3",
     "colors": [
+      "#2044c7",
+      "#fb697d",
+      "#ae1f5a",
+      "#fcf996",
+      "#b0e405",
+      "#0237ef",
       "#C6FFE3",
-      "#364177",
-      "#814779",
-      "#856e44",
-      "#3cb839",
-      "#bc7e78",
-      "#bf68b8",
-      "#ced769",
-      "#d2d35a",
-      "#195c28"
+      "#bec9c1",
+      "#ea5260",
+      "#fee678"
     ]
   },
   {
     "username": "miinuuuss",
     "real_color": "#00FF7F",
     "colors": [
-      "#ff100d",
-      "#4cc873",
-      "#cf5cb2",
-      "#544642",
-      "#20f2a0",
+      "#3db6f6",
       "#00FF7F",
-      "#608b59",
-      "#e1364b",
-      "#37ead4",
-      "#ca9fc6"
+      "#3a4301",
+      "#81ec0b",
+      "#42e966",
+      "#2cbbcb",
+      "#35640d",
+      "#74df0c",
+      "#b9f5ba",
+      "#7b3b78"
     ]
   },
   {
     "username": "Hoppel800",
     "real_color": "#FFFFFF",
     "colors": [
-      "#d0a044",
-      "#b7d7fe",
-      "#2c0266",
-      "#54336c",
-      "#8bbe5c",
-      "#df5fb1",
-      "#c444dd",
-      "#a857c3",
-      "#9ff1aa",
-      "#FFFFFF"
+      "#bd64d5",
+      "#790ba4",
+      "#0f3a38",
+      "#d81e6c",
+      "#e4fce3",
+      "#a71092",
+      "#FFFFFF",
+      "#48219c",
+      "#c4d7cb",
+      "#309e6c"
     ]
   },
   {
     "username": "paul18_rsx",
     "real_color": "#FF0000",
     "colors": [
-      "#f94257",
-      "#f046da",
-      "#360c6b",
-      "#4f57df",
-      "#0cb19e",
-      "#6b06e3",
+      "#09ae1a",
+      "#366ad7",
+      "#044dbd",
+      "#cff557",
       "#FF0000",
-      "#0dd437",
-      "#adbd34",
-      "#3343fe"
+      "#bc5e8f",
+      "#7e629e",
+      "#438712",
+      "#b25d61",
+      "#874190"
+    ]
+  },
+  {
+    "username": "malteeeeeeee",
+    "real_color": "#28CEFF",
+    "colors": [
+      "#8f4b9f",
+      "#fff673",
+      "#3c0999",
+      "#bcc027",
+      "#28CEFF",
+      "#3b561a",
+      "#4198b7",
+      "#7d5a87",
+      "#057407",
+      "#37cbc0"
     ]
   }
 ]
