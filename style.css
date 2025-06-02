@@ -243,8 +243,11 @@ body, html {
     height: 7px;
   }
   .footer {
-    font-size: 0.95rem;
-    padding: 0.5em 0;
+    font-size: 1.1rem;
+    padding: 0.6em 0;
+  }
+  .mikaator-link {
+    font-size: 1.1em;
   }
 }
 
@@ -284,21 +287,21 @@ body, html {
   position: fixed;
   bottom: 0;
   left: 0;
-  padding: 0.7em 0 0.7em 0;
+  padding: 0.9em 0 0.9em 0;
   background: linear-gradient(90deg, #23232b 0%, #18181b 100%);
   color: #bbb;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   letter-spacing: 0.03em;
   z-index: 200;
   font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
 }
 .mikaator-link {
   color: #9147ff;
-  font-weight: 700;
+  font-weight: 800;
   font-family: 'Montserrat', 'Inter', 'Segoe UI', Arial, sans-serif;
   text-decoration: none;
   letter-spacing: 0.04em;
-  font-size: 1.15em;
+  font-size: 1.25em;
   transition: color 0.2s, text-shadow 0.2s;
 }
 .mikaator-link:hover {
