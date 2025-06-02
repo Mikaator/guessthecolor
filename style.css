@@ -63,9 +63,10 @@ body, html {
   filter: brightness(1) saturate(1);
 }
 .color-btn:hover:not(:disabled) {
-  transform: scale(1.18) translateY(-10px) rotate(-2deg);
-  box-shadow: 0 12px 40px 0 #0007;
-  filter: brightness(1.13) saturate(1.25);
+  /* Kein Hover-Effekt mehr, damit die Farbe nicht verfälscht wird */
+  transform: none;
+  box-shadow: 0 4px 24px 0 #0005;
+  filter: none;
 }
 .color-btn:active:not(:disabled) {
   transform: scale(0.95);
@@ -79,6 +80,12 @@ body, html {
   animation: super-pop 0.7s cubic-bezier(.36,.07,.19,.97) both;
   box-shadow: 0 0 0 12px #00e676cc, 0 0 32px 8px #00e67655, 0 4px 24px 0 #0005;
   filter: brightness(1.3) drop-shadow(0 0 32px #00e676cc) saturate(1.5);
+}
+.color-btn.wrong-persist {
+  box-shadow: 0 0 0 6px #ff3b3bcc, 0 4px 24px 0 #0005 !important;
+  outline: 3px solid #ff3b3b;
+  outline-offset: 2px;
+  filter: grayscale(0.7) brightness(0.8);
 }
 @keyframes super-shake {
   10%, 90% { transform: translateX(-4px) rotate(-2deg); }
@@ -236,6 +243,10 @@ body, html {
   .progress-bar-outer {
     height: 7px;
   }
+  .footer {
+    font-size: 0.95rem;
+    padding: 0.5em 0;
+  }
 }
 
 .mode-select {
@@ -266,4 +277,53 @@ body, html {
   background: #333;
   color: #fff;
   border: 2px solid #7c3aed;
+}
+
+.footer {
+  width: 100vw;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0.7em 0 0.7em 0;
+  background: linear-gradient(90deg, #23232b 0%, #18181b 100%);
+  color: #bbb;
+  font-size: 1.1rem;
+  letter-spacing: 0.03em;
+  z-index: 200;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+.mikaator-link {
+  color: #9147ff;
+  font-weight: 700;
+  font-family: 'Montserrat', 'Inter', 'Segoe UI', Arial, sans-serif;
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  font-size: 1.15em;
+  transition: color 0.2s, text-shadow 0.2s;
+}
+.mikaator-link:hover {
+  color: #00e676;
+  text-shadow: 0 2px 16px #00e67688, 0 0 2px #9147ff;
+}
+
+#confetti-container {
+  pointer-events: none;
+  position: fixed;
+  top: 0; left: 0; width: 100vw; height: 100vh;
+  z-index: 9999;
+}
+.confetti {
+  position: absolute;
+  top: -24px;
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  opacity: 0.8;
+  animation: confetti-fall linear forwards;
+}
+@keyframes confetti-fall {
+  0% { transform: translateY(0) scale(1) rotate(0deg); opacity: 1; }
+  80% { opacity: 1; }
+  100% { transform: translateY(92vh) scale(0.7) rotate(360deg); opacity: 0; }
 } 
