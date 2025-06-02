@@ -3,576 +3,640 @@ window.config = [
     "username": "vGregor",
     "real_color": "#D2691E",
     "colors": [
-      "#601aed",
-      "#0ca1c2",
-      "#8f67ce",
-      "#f18e60",
       "#D2691E",
-      "#198aac",
-      "#139e12",
-      "#14afb7",
-      "#ce2e6f",
-      "#ebf124"
+      "#46c169",
+      "#188282",
+      "#12db9e",
+      "#765e3d",
+      "#7034cc",
+      "#92ae7a",
+      "#5f6b81",
+      "#dae529",
+      "#1a5034"
     ]
   },
   {
     "username": "dasop0ssum",
     "real_color": "#00FF7F",
     "colors": [
-      "#dc3943",
-      "#8d1687",
+      "#b4ed5e",
       "#00FF7F",
-      "#09aeda",
-      "#5db204",
-      "#8b20ac",
-      "#10b360",
-      "#0cda0d",
-      "#4d25b9",
-      "#e2d98e"
+      "#7f441d",
+      "#2a148e",
+      "#2378f1",
+      "#79a0b9",
+      "#73fb9f",
+      "#d4106b",
+      "#516d46",
+      "#097d5a"
     ]
   },
   {
     "username": "mc_migu",
     "real_color": "#8A2BE2",
     "colors": [
-      "#687559",
-      "#bec024",
-      "#4b1344",
-      "#dbd2bc",
-      "#1fcdde",
-      "#7b0ba3",
-      "#ce331e",
+      "#030c21",
+      "#ae4966",
       "#8A2BE2",
-      "#3def76",
-      "#294bfa"
+      "#2ca53a",
+      "#ccb227",
+      "#f286e7",
+      "#f89fae",
+      "#de19fc",
+      "#77a992",
+      "#eaf1b1"
     ]
   },
   {
     "username": "alexxx_sp",
     "real_color": "#FF0000",
     "colors": [
-      "#7c20d1",
-      "#552b9e",
-      "#7b0d4e",
-      "#e6f995",
-      "#4d50fb",
-      "#fce80f",
-      "#35f7e1",
-      "#2fc3c5",
+      "#343070",
+      "#216d32",
+      "#9f330b",
+      "#517d72",
       "#FF0000",
-      "#428e5e"
+      "#7a5bde",
+      "#fcdd4b",
+      "#375aa4",
+      "#3803d3",
+      "#f7722a"
     ]
   },
   {
     "username": "Wichtiger",
     "real_color": "#F600FF",
     "colors": [
-      "#e957ff",
+      "#82062f",
+      "#d9d68b",
+      "#ecccca",
+      "#29bd4d",
       "#F600FF",
-      "#6ff566",
-      "#3a0d07",
-      "#848662",
-      "#52ab89",
-      "#d5db88",
-      "#3f366c",
-      "#81bb5b",
-      "#0d1712"
+      "#57a5df",
+      "#606ba0",
+      "#f463c5",
+      "#dc6457",
+      "#a5fc92"
     ]
   },
   {
     "username": "miina_04",
     "real_color": "#FF69B4",
     "colors": [
-      "#e9ec68",
-      "#184b9a",
-      "#b68153",
-      "#602225",
-      "#685b4c",
       "#FF69B4",
-      "#ff7fda",
-      "#5b2e83",
-      "#dacf06",
-      "#89c749"
+      "#25dd59",
+      "#826b7c",
+      "#f3239c",
+      "#6556e7",
+      "#4bea49",
+      "#16e909",
+      "#ea8743",
+      "#253557",
+      "#cd7e84"
     ]
   },
   {
     "username": "Poooleeee",
     "real_color": "#8A2BE2",
     "colors": [
-      "#fa77fd",
-      "#9f9e47",
-      "#8e829b",
-      "#c2d5eb",
-      "#bc8c89",
-      "#e3af94",
+      "#00906e",
+      "#bf98ac",
       "#8A2BE2",
-      "#0ecf24",
-      "#5a7bc1",
-      "#ff4f44"
-    ]
-  },
-  {
-    "username": "TomatenT0m",
-    "real_color": "#FF0000",
-    "colors": [
-      "#84f675",
-      "#16144a",
-      "#FF0000",
-      "#b7844f",
-      "#1ddd8b",
-      "#81b3df",
-      "#72b45d",
-      "#c6321e",
-      "#4048f7",
-      "#9a072a"
-    ]
-  },
-  {
-    "username": "tyrroon",
-    "real_color": "#03FFFF",
-    "colors": [
-      "#d5283a",
-      "#a818f9",
-      "#1d193b",
-      "#b97411",
-      "#03FFFF",
-      "#39a581",
-      "#e6c8ce",
-      "#37ab70",
-      "#17ddf9",
-      "#4ec87e"
+      "#02962d",
+      "#4ed6be",
+      "#819e07",
+      "#e97f7c",
+      "#984b0e",
+      "#6cd5b9",
+      "#90353e"
     ]
   },
   {
     "username": "Mikaator",
     "real_color": "#C6FFE3",
     "colors": [
-      "#34d7b7",
-      "#5e5251",
-      "#c5ce59",
-      "#C6FFE3",
-      "#ada10d",
-      "#378002",
-      "#51dc8e",
-      "#45a4d3",
-      "#7d772c",
-      "#e41fd3"
+      "#5f4eb8",
+      "#7be261",
+      "#a29dfd",
+      "#340158",
+      "#1dce08",
+      "#5b0b6c",
+      "#5d695d",
+      "#a21184",
+      "#579244",
+      "#C6FFE3"
     ]
   },
   {
-    "username": "xArda____",
-    "real_color": "#5F9EA0",
-    "colors": [
-      "#d42f78",
-      "#caa056",
-      "#5F9EA0",
-      "#99ceb6",
-      "#b9a7f3",
-      "#dcc4a3",
-      "#b1b8a3",
-      "#72c7ca",
-      "#557264",
-      "#ccc407"
-    ]
-  },
-  {
-    "username": "ann_omalie",
-    "real_color": "#86037C",
-    "colors": [
-      "#08de1e",
-      "#dd603d",
-      "#188fd4",
-      "#e33df6",
-      "#da0d7a",
-      "#86037C",
-      "#fada9f",
-      "#963ea8",
-      "#a8990b",
-      "#c6b3b0"
-    ]
-  },
-  {
-    "username": "daswildeollie",
+    "username": "TomatenT0m",
     "real_color": "#FF0000",
     "colors": [
-      "#33ea4a",
-      "#4bd3e1",
-      "#7f2777",
-      "#c208fb",
-      "#ad5e33",
-      "#8ad33d",
-      "#af9dee",
       "#FF0000",
-      "#970fd6",
-      "#34cc34"
+      "#dd04b4",
+      "#5c7169",
+      "#e22ac2",
+      "#bfda53",
+      "#5fd155",
+      "#f20564",
+      "#b22762",
+      "#18a3e1",
+      "#a52d0a"
     ]
   },
   {
-    "username": "Papaplatte",
-    "real_color": "#AF58FD",
+    "username": "freddihd23",
+    "real_color": "#1E90FF",
     "colors": [
-      "#f34c54",
-      "#8808bc",
-      "#6e7a01",
-      "#5cf5b6",
-      "#fb10b8",
-      "#AF58FD",
-      "#53f703",
-      "#c8d4be",
-      "#57b711",
-      "#cf099b"
+      "#ba2ea7",
+      "#fff029",
+      "#a4f113",
+      "#a0f549",
+      "#726a34",
+      "#2752e8",
+      "#a85c61",
+      "#06ac16",
+      "#30b03c",
+      "#1E90FF"
     ]
   },
   {
-    "username": "Hoppel800",
-    "real_color": "#FFFFFF",
+    "username": "jeansophiee",
+    "real_color": "#FCE2F5",
     "colors": [
-      "#5157f9",
-      "#dc14f9",
-      "#1146ae",
-      "#794ff0",
-      "#41eee2",
-      "#01ef33",
-      "#41e0a5",
-      "#eca380",
-      "#FFFFFF",
-      "#ce1330"
-    ]
-  },
-  {
-    "username": "Affektiverr",
-    "real_color": "#D2691E",
-    "colors": [
-      "#2f937d",
-      "#ce5c1d",
-      "#964966",
-      "#629be1",
-      "#4e057d",
-      "#aa68fc",
-      "#D2691E",
-      "#7b7c12",
-      "#6c78f9",
-      "#a5170c"
-    ]
-  },
-  {
-    "username": "scToti",
-    "real_color": "#0469A7",
-    "colors": [
-      "#9c4090",
-      "#22e83b",
-      "#a94641",
-      "#ae81b2",
-      "#25cbdb",
-      "#38f575",
-      "#0469A7",
-      "#ca8b6a",
-      "#7a2df3",
-      "#e604ce"
-    ]
-  },
-  {
-    "username": "BattlePig78",
-    "real_color": "#FFB6C1",
-    "colors": [
-      "#017bbc",
-      "#f55027",
-      "#bcc89e",
-      "#aae79c",
-      "#3d1504",
-      "#FFB6C1",
-      "#ea231c",
-      "#808fae",
-      "#e172d0",
-      "#7aba3f"
-    ]
-  },
-  {
-    "username": "FlentroX",
-    "real_color": "#3CB371",
-    "colors": [
-      "#e70139",
-      "#3CB371",
-      "#7919d1",
-      "#9e0618",
-      "#7db746",
-      "#b2e606",
-      "#991e3c",
-      "#264782",
-      "#e5f184",
-      "#b83b99"
-    ]
-  },
-  {
-    "username": "miinuuuss",
-    "real_color": "#00FF7F",
-    "colors": [
-      "#eaedbe",
-      "#307c2a",
-      "#0e5b90",
-      "#b55042",
-      "#e31160",
-      "#c7e8dc",
-      "#189e92",
-      "#00FF7F",
-      "#7dfb95",
-      "#f0ae5f"
-    ]
-  },
-  {
-    "username": "F4biFPS_",
-    "real_color": "#FF64B2",
-    "colors": [
-      "#00c55b",
-      "#234dc1",
-      "#FF64B2",
-      "#a26799",
-      "#c1bf70",
-      "#c21e9d",
-      "#fae68b",
-      "#eda40c",
-      "#22e053",
-      "#e97949"
-    ]
-  },
-  {
-    "username": "rHyro_",
-    "real_color": "#8A2BE2",
-    "colors": [
-      "#a2d2e0",
-      "#85ec99",
-      "#431e49",
-      "#8A2BE2",
-      "#2a3b3c",
-      "#b72ff8",
-      "#48657d",
-      "#c7e625",
-      "#b943d5",
-      "#e5ae51"
-    ]
-  },
-  {
-    "username": "Raphibey",
-    "real_color": "#2E8B57",
-    "colors": [
-      "#71ccc4",
-      "#c2a40d",
-      "#cbe9cc",
-      "#d9234e",
-      "#59f9c5",
-      "#174d59",
-      "#13f549",
-      "#26481c",
-      "#2E8B57",
-      "#d12a8b"
-    ]
-  },
-  {
-    "username": "Die_Ente3",
-    "real_color": "#FF00B0",
-    "colors": [
-      "#747fad",
-      "#8cc159",
-      "#30c50f",
-      "#37d742",
-      "#5ab704",
-      "#e35fc6",
-      "#d812e4",
-      "#a4ca39",
-      "#3a26b4",
-      "#FF00B0"
-    ]
-  },
-  {
-    "username": "Der_S0cken",
-    "real_color": "#FF69B4",
-    "colors": [
-      "#73e0c6",
-      "#d91c47",
-      "#d485fc",
-      "#eb4110",
-      "#FF69B4",
-      "#3aceb9",
-      "#282f43",
-      "#740353",
-      "#4f0e59",
-      "#89d494"
-    ]
-  },
-  {
-    "username": "paul18_rsx",
-    "real_color": "#FF0000",
-    "colors": [
-      "#5f171a",
-      "#d92947",
-      "#52815f",
-      "#8713fd",
-      "#c78320",
-      "#FF0000",
-      "#a2839a",
-      "#3041a4",
-      "#f5169c",
-      "#42c324"
-    ]
-  },
-  {
-    "username": "milky600",
-    "real_color": "#FCCBFF",
-    "colors": [
-      "#9fcfe1",
-      "#add450",
-      "#9ce4c1",
-      "#dbbb08",
-      "#2ebbb8",
-      "#FCCBFF",
-      "#26e155",
-      "#fab7f7",
-      "#339be5",
-      "#dde5f7"
-    ]
-  },
-  {
-    "username": "Jilence",
-    "real_color": "#BF6BF0",
-    "colors": [
-      "#65c4f9",
-      "#e769b7",
-      "#324299",
-      "#4a1ea1",
-      "#BF6BF0",
-      "#466ee2",
-      "#b0f25f",
-      "#b4761f",
-      "#d3a5a5",
-      "#af8a09"
-    ]
-  },
-  {
-    "username": "InkelDinkel",
-    "real_color": "#FF69B4",
-    "colors": [
-      "#3a898b",
-      "#FF69B4",
-      "#cc0f77",
-      "#aee7d5",
-      "#b63f2a",
-      "#b2661f",
-      "#f899f8",
-      "#18cc6a",
-      "#3c2a91",
-      "#97c5d2"
-    ]
-  },
-  {
-    "username": "xJ0n4s07",
-    "real_color": "#00F5FF",
-    "colors": [
-      "#1eaa39",
-      "#df7085",
-      "#8e17de",
-      "#f26f81",
-      "#919d25",
-      "#1826e1",
-      "#00F5FF",
-      "#4c3214",
-      "#bcb752",
-      "#8a6371"
+      "#215971",
+      "#91af03",
+      "#2f427e",
+      "#FCE2F5",
+      "#4c038b",
+      "#63424b",
+      "#f7b207",
+      "#4687eb",
+      "#fcbbb8",
+      "#df5d9a"
     ]
   },
   {
     "username": "zparcival",
     "real_color": "#2E8B57",
     "colors": [
-      "#d178ac",
-      "#8e91da",
-      "#f53fa9",
-      "#80b73b",
-      "#5f09fe",
-      "#504706",
+      "#0ec665",
+      "#23eacc",
+      "#c20db8",
+      "#947388",
+      "#b7ebf9",
+      "#2ee30b",
+      "#6f2449",
       "#2E8B57",
-      "#033321",
-      "#4ea425",
-      "#0e5f94"
+      "#42197d",
+      "#cd1bdf"
+    ]
+  },
+  {
+    "username": "huytastic",
+    "real_color": "#5D94E6",
+    "colors": [
+      "#f5e4ad",
+      "#5ea488",
+      "#488ca2",
+      "#4d10a8",
+      "#1931ef",
+      "#5D94E6",
+      "#ff8a9b",
+      "#9da546",
+      "#74280c",
+      "#2271c0"
+    ]
+  },
+  {
+    "username": "tyrroon",
+    "real_color": "#03FFFF",
+    "colors": [
+      "#03FFFF",
+      "#7b86bc",
+      "#4fd8ee",
+      "#21238b",
+      "#82c6ca",
+      "#fde1e8",
+      "#ecb941",
+      "#aa3559",
+      "#9830e6",
+      "#f9b646"
+    ]
+  },
+  {
+    "username": "xArda____",
+    "real_color": "#5F9EA0",
+    "colors": [
+      "#40343d",
+      "#45cd15",
+      "#41d2d9",
+      "#5F9EA0",
+      "#aa9186",
+      "#4faffa",
+      "#72d20c",
+      "#f94112",
+      "#d08d04",
+      "#e7fcaf"
+    ]
+  },
+  {
+    "username": "ann_omalie",
+    "real_color": "#86037C",
+    "colors": [
+      "#87423f",
+      "#2f4f2c",
+      "#765626",
+      "#1c7030",
+      "#82f66b",
+      "#0637a5",
+      "#75eb69",
+      "#d6a352",
+      "#86037C",
+      "#fa408a"
+    ]
+  },
+  {
+    "username": "milky600",
+    "real_color": "#FCCBFF",
+    "colors": [
+      "#43837f",
+      "#a32898",
+      "#0cb806",
+      "#FCCBFF",
+      "#b6674b",
+      "#ad3db2",
+      "#9e2fbd",
+      "#3c1d17",
+      "#d4ab20",
+      "#09a14f"
+    ]
+  },
+  {
+    "username": "daswildeollie",
+    "real_color": "#FF0000",
+    "colors": [
+      "#9c56e8",
+      "#4a0f8e",
+      "#FF0000",
+      "#a40bd6",
+      "#6ce6cf",
+      "#b5929e",
+      "#61d0d4",
+      "#fd0226",
+      "#7f7146",
+      "#146b47"
+    ]
+  },
+  {
+    "username": "Jilence",
+    "real_color": "#BF6BF0",
+    "colors": [
+      "#719d56",
+      "#204385",
+      "#8d8dc8",
+      "#BF6BF0",
+      "#72be57",
+      "#9dd00e",
+      "#317a15",
+      "#6fb9d6",
+      "#2bd7a8",
+      "#a798bf"
+    ]
+  },
+  {
+    "username": "Papaplatte",
+    "real_color": "#AF58FD",
+    "colors": [
+      "#AF58FD",
+      "#3b6f74",
+      "#f5559f",
+      "#d99c53",
+      "#d71bc3",
+      "#4c6810",
+      "#c653cc",
+      "#1ddfbb",
+      "#3b5917",
+      "#e6c18a"
+    ]
+  },
+  {
+    "username": "kerrysfrag",
+    "real_color": "#B405EE",
+    "colors": [
+      "#2e98c9",
+      "#B405EE",
+      "#109451",
+      "#63838d",
+      "#21d86a",
+      "#6daf81",
+      "#eca43b",
+      "#9303fe",
+      "#3dbc6a",
+      "#102c83"
+    ]
+  },
+  {
+    "username": "Hoppel800",
+    "real_color": "#FFFFFF",
+    "colors": [
+      "#e02054",
+      "#f9c543",
+      "#a553cc",
+      "#2a5e20",
+      "#b1e238",
+      "#468316",
+      "#FFFFFF",
+      "#0c0d97",
+      "#9282f5",
+      "#28a5e8"
+    ]
+  },
+  {
+    "username": "Affektiverr",
+    "real_color": "#D2691E",
+    "colors": [
+      "#b0712a",
+      "#9883ae",
+      "#b8c8d0",
+      "#412511",
+      "#a99e3b",
+      "#D2691E",
+      "#b1ef00",
+      "#aed76e",
+      "#2ff6fb",
+      "#bc3525"
+    ]
+  },
+  {
+    "username": "scToti",
+    "real_color": "#0469A7",
+    "colors": [
+      "#63d2f8",
+      "#8cd044",
+      "#ef6149",
+      "#49cdff",
+      "#0469A7",
+      "#89694b",
+      "#cee796",
+      "#24f36d",
+      "#618f91",
+      "#55e4e1"
+    ]
+  },
+  {
+    "username": "BattlePig78",
+    "real_color": "#FFB6C1",
+    "colors": [
+      "#416b12",
+      "#e8a9f5",
+      "#91fadb",
+      "#d0163f",
+      "#FFB6C1",
+      "#845325",
+      "#52ec3c",
+      "#2342cf",
+      "#7c1270",
+      "#d843fe"
+    ]
+  },
+  {
+    "username": "FlentroX",
+    "real_color": "#3CB371",
+    "colors": [
+      "#3CB371",
+      "#ed876a",
+      "#fc90ad",
+      "#841f9c",
+      "#91f337",
+      "#3df502",
+      "#4bf1f1",
+      "#183fa2",
+      "#c070e9",
+      "#a91a45"
+    ]
+  },
+  {
+    "username": "miinuuuss",
+    "real_color": "#00FF7F",
+    "colors": [
+      "#5259ec",
+      "#8de0d2",
+      "#584872",
+      "#dbebc9",
+      "#00FF7F",
+      "#2b4a89",
+      "#0dcde9",
+      "#f82ec8",
+      "#6305e2",
+      "#4b7929"
+    ]
+  },
+  {
+    "username": "F4biFPS_",
+    "real_color": "#FF64B2",
+    "colors": [
+      "#bdefff",
+      "#8a9de5",
+      "#FF64B2",
+      "#c49a84",
+      "#be5e39",
+      "#475be5",
+      "#f0592e",
+      "#26f3d4",
+      "#c9e098",
+      "#bece26"
+    ]
+  },
+  {
+    "username": "rHyro_",
+    "real_color": "#8A2BE2",
+    "colors": [
+      "#e6e74e",
+      "#348619",
+      "#b8e3c0",
+      "#935d51",
+      "#fcdd3e",
+      "#6d4078",
+      "#8bf6e8",
+      "#8A2BE2",
+      "#7b1882",
+      "#3bb000"
+    ]
+  },
+  {
+    "username": "Raphibey",
+    "real_color": "#2E8B57",
+    "colors": [
+      "#3423b5",
+      "#c899cd",
+      "#06cfa7",
+      "#ffb961",
+      "#fa0763",
+      "#128ae7",
+      "#2E8B57",
+      "#cbafc5",
+      "#d2e503",
+      "#830f87"
+    ]
+  },
+  {
+    "username": "Die_Ente3",
+    "real_color": "#FF00B0",
+    "colors": [
+      "#560c93",
+      "#001c4f",
+      "#d37fd8",
+      "#c7581a",
+      "#656de5",
+      "#2d5641",
+      "#FF00B0",
+      "#b7db03",
+      "#b53ba4",
+      "#a197dc"
+    ]
+  },
+  {
+    "username": "Der_S0cken",
+    "real_color": "#FF69B4",
+    "colors": [
+      "#ee352b",
+      "#d2ed6c",
+      "#7d688a",
+      "#cc4a9d",
+      "#390a32",
+      "#6c489f",
+      "#5dec80",
+      "#8cb8ff",
+      "#FF69B4",
+      "#1a9dde"
+    ]
+  },
+  {
+    "username": "paul18_rsx",
+    "real_color": "#FF0000",
+    "colors": [
+      "#111571",
+      "#1cea95",
+      "#eb49fc",
+      "#8357f1",
+      "#bf3452",
+      "#d54f97",
+      "#d914ea",
+      "#4dc641",
+      "#1eb868",
+      "#FF0000"
+    ]
+  },
+  {
+    "username": "InkelDinkel",
+    "real_color": "#FF69B4",
+    "colors": [
+      "#3e737d",
+      "#a9e933",
+      "#7b21f5",
+      "#edc95c",
+      "#de7013",
+      "#124d68",
+      "#137437",
+      "#1f82ad",
+      "#30c72a",
+      "#FF69B4"
+    ]
+  },
+  {
+    "username": "xJ0n4s07",
+    "real_color": "#00F5FF",
+    "colors": [
+      "#af8516",
+      "#e00ba9",
+      "#1331f1",
+      "#31c316",
+      "#e587e8",
+      "#8a6772",
+      "#8e5d79",
+      "#00F5FF",
+      "#6fcad1",
+      "#c98f41"
     ]
   },
   {
     "username": "dxlfien",
     "real_color": "#FF69B4",
     "colors": [
-      "#f000b3",
-      "#5c8af7",
-      "#322f84",
-      "#88a8d1",
-      "#5a2a46",
-      "#04ea28",
-      "#4c38be",
+      "#cf853e",
+      "#209b1b",
+      "#229c19",
+      "#73d445",
+      "#91cf7a",
+      "#c70017",
+      "#ce79d5",
       "#FF69B4",
-      "#b29595",
-      "#503f9d"
+      "#e7c142",
+      "#74ac15"
     ]
   },
   {
     "username": "luucaalol",
     "real_color": "#CCFFF9",
     "colors": [
-      "#15eb38",
-      "#30d368",
-      "#e6c6f1",
-      "#f74004",
-      "#1bd4fd",
-      "#06c109",
-      "#a0f48f",
+      "#31a163",
+      "#cbaac3",
+      "#6ea88e",
+      "#3e7823",
+      "#2334ba",
+      "#c5358d",
+      "#99bcaa",
       "#CCFFF9",
-      "#b24c66",
-      "#d66466"
+      "#507d02",
+      "#f9af82"
     ]
   },
   {
     "username": "sven_664",
     "real_color": "#008000",
     "colors": [
-      "#d03678",
-      "#180eaa",
-      "#80898e",
-      "#95e477",
-      "#fdc0d9",
+      "#3442e5",
+      "#73433f",
+      "#23625f",
+      "#9eac69",
+      "#d5c797",
+      "#c8a0ea",
+      "#bcca2e",
+      "#a71211",
       "#008000",
-      "#ca8d01",
-      "#ffe6ea",
-      "#37864f",
-      "#fd95f9"
+      "#fb301f"
     ]
   },
   {
     "username": "icemanutv",
     "real_color": "#5F9EA0",
     "colors": [
-      "#8de165",
-      "#43154a",
-      "#b793b8",
-      "#49aecb",
-      "#06be16",
-      "#5aee8f",
-      "#b782a2",
-      "#c88fc4",
-      "#08cd15",
-      "#5F9EA0"
+      "#9ee24a",
+      "#32ec02",
+      "#76b9ef",
+      "#d510ed",
+      "#b9d65f",
+      "#a28493",
+      "#5F9EA0",
+      "#1b1265",
+      "#684113",
+      "#43f085"
     ]
   },
   {
     "username": "DerMaulwurf54",
     "real_color": "#C5F6FF",
     "colors": [
-      "#96b8e6",
-      "#493a0d",
-      "#989120",
-      "#bb3f42",
+      "#a2f3a6",
+      "#2cfed5",
+      "#142db6",
+      "#d34b4b",
       "#C5F6FF",
-      "#feb214",
-      "#cede86",
-      "#7de68e",
-      "#f42d5a",
-      "#dfdb2f"
+      "#bceb7a",
+      "#8946e0",
+      "#fe3f60",
+      "#95fcf0",
+      "#69e234"
     ]
   }
 ];
