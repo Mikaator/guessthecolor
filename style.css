@@ -105,7 +105,7 @@ body, html {
   width: 320px;
   margin: 0 auto;
   position: fixed;
-  bottom: 40px;
+  bottom: 100px;
   left: 0;
   right: 0;
   z-index: 10;
@@ -156,11 +156,19 @@ body, html {
   font-weight: 800;
   letter-spacing: 0.04em;
   margin-bottom: 0.5em;
-  background: linear-gradient(90deg, #9147ff 0%, #00e676 100%);
+  background: linear-gradient(90deg, #9147ff 0%, #00e676 50%, #9147ff 100%);
+  background-size: 200% auto;
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  text-shadow: 0 4px 32px #0005;
+  text-shadow: 0 0 20px #9147ff88, 0 0 40px #00e67644;
+  animation: shine 3s linear infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
 }
 
 .game-title {
@@ -239,7 +247,7 @@ body, html {
   }
   .nav {
     width: 95vw;
-    bottom: 16px;
+    bottom: 80px;
   }
   .nav button {
     padding: 0.7em 1.1em;
@@ -261,6 +269,12 @@ body, html {
   }
   .mikaator-link {
     font-size: 1.1em;
+  }
+  .note-icon {
+    width: 120px;
+    height: 120px;
+    top: 15px;
+    right: 15px;
   }
 }
 
@@ -342,4 +356,19 @@ body, html {
   0% { transform: translateY(0) scale(1) rotate(0deg); opacity: 1; }
   80% { opacity: 1; }
   100% { transform: translateY(92vh) scale(0.7) rotate(360deg); opacity: 0; }
+}
+
+.note-icon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 160px;
+  height: 160px;
+  z-index: 100;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.5));
+  transition: transform 0.2s ease;
+}
+
+.note-icon:hover {
+  transform: scale(1.1);
 } 

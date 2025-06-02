@@ -39,6 +39,7 @@ function render() {
   if (!state.started) {
     root.innerHTML = `
       <div class="startscreen animate-in">
+        <img src="note.png" alt="Note" class="note-icon">
         <h1>Guess the Color</h1>
         <p class="subtitle">Errate die Twitch-Farbe anhand des Usernamens!</p>
         <button class="start-btn" id="startbtn">Spiel starten</button>
@@ -50,6 +51,7 @@ function render() {
   if (state.finished) {
     root.innerHTML = `
       <div class="endscreen animate-in">
+        <img src="note.png" alt="Note" class="note-icon">
         <h1>Fertig!</h1>
         <p class="subtitle">Du hast <b>${state.correctCount}</b> von <b>${config.length}</b> richtig erraten.</p>
         <button class="start-btn" id="restartbtn">Nochmal spielen</button>
@@ -68,6 +70,8 @@ function render() {
   // Antwortmöglichkeiten generieren
   let answerColors = user.colors;
   root.innerHTML = `
+    <img src="note.png" alt="Note" class="note-icon">
+    <h1 class="game-title">Guess the Color</h1>
     <div class="progress-bar-outer"><div class="progress-bar-inner" style="width:${progress}%"></div></div>
     <div class="userbox animate-in"><span class="username">${user.username}</span></div>
     <div class="colors">
